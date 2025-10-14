@@ -1,4 +1,4 @@
-def area(a, b):
+def area(a, b):r
     '''
     Вычисляет площадь прямоугольника.
     
@@ -14,7 +14,7 @@ def area(a, b):
     '''
     return a * b
 
-    def perimeter(a, b):
+def perimeter(a, b):
     '''
     Вычисляет периметр прямоугольника.
     
