@@ -104,6 +104,6 @@ perimeter(3, 4, 5)  # возвращает: 12
 
 ### История изменения репозитория
 - **commit 1** d078c8d9ee6155f3cb0e577d28d337b791de28e2 - добавлена директория docs
-- **commit 2** 8ba9aeb3cea847b63a91ac378a2a6db758682460 - добавлены файлы circle.py и square.py
+- **commit 2** 8ba9aeb3cea847b63a91ac378a2a6db758682460 - добавлены файлы circle.py и square.py     
 - **commit 3** 7c4b62c8edf3666979e08fdf5d78442d71b2a9c1 - добавил еще функций, написали мдшник с описанием
 - **commit 4**                  ......                  - добавлены unit тесты 
